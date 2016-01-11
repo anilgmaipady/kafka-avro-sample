@@ -1,7 +1,5 @@
 package com.test.avro;
 
-import kafka.utils.ShutdownableThread;
-import kafka.utils.ShutdownableThread;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.clients.consumer.ConsumerRecords;
